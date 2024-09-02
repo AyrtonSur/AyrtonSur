@@ -30,6 +30,9 @@ I work, mainly, on the backend side of projects.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
 <br/>
+
+**What I have been up to** :
+
 [![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=monokai)](https://github.com/AyrtonSur/github-readme-activity-graph)
 
 <a href="https://github.com/AyrtonSur" title="Ayrton's profile">
