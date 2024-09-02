@@ -30,12 +30,12 @@ I work, mainly, on the backend side of projects.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
 <br/>
-[![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=dark)](https://github.com/AyrtonSur/github-readme-activity-graph)
+[![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=monokai)](https://github.com/AyrtonSur/github-readme-activity-graph)
 
 <a href="https://github.com/AyrtonSur" title="Ayrton's profile">
-  <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=AyrtonSur&theme=dark&show_icons=true" />
+  <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=AyrtonSur&theme=monokai&show_icons=true" />
   <br></br>
-  <img height="225em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=7&theme=dark"/>
+  <img height="225em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=7&theme=monokai"/>
 </a>
 <br></br>
 
