@@ -40,6 +40,9 @@ I work, mainly, on the backend side of projects.
 <br></br>
 
 [![Gmail Badge](https://img.shields.io/badge/-ayrtonsurica@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayrtonsurica@gmail.com)](mailto:ayrtonsurica@gmail.com)
+[![X](https://img.shields.io/badge/@AyrtonSurica-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/AyrtonSurica)
+[![Instagram](https://img.shields.io/badge/ayrtonsurica-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ayrtonsurica)
+[![Discord](https://img.shields.io/badge/Discord-ayrtonss-7289DA?logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/github/followers/AyrtonSur?label=follow&style=social)](https://github.com/AyrtonSur)
 
 
