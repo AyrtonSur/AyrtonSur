@@ -8,7 +8,7 @@ I am currently focusing on learning as much as I can and to do that I try to cha
 I have learned many differents languanges, like Python, Java, C, etc. But my main language, right now, is JavaScript.
 I work, mainly, on the backend side of projects.
 
-<div style="display: flex; align-items: center; justify-content: center; height: 50px;>
+<div style="display: flex; align-items: center; justify-content: center;>
 
 
 If you want to know more about me:  [![MySite](https://img.shields.io/badge/Curriculum%20-%20hsl(0%2C%200%25%2C%2093%25)?style=flat&logo=pagekit&logoColor=black&logoSize=auto
