@@ -8,7 +8,7 @@ I am currently focusing on learning as much as I can and to do that I try to cha
 I have learned many differents languanges, like Python, Java, C, etc. But my main language, right now, is JavaScript.
 I work, mainly, on the backend side of projects.
 
-If you want to know more about me: [https://ayrtonsur.github.io/Curriculo](https://ayrtonsur.github.io/Curriculo/)
+If you want to know more about me: ![Github](https://ayrtonsur.github.io/Curriculo/)
 
 ## My Skills
 **Applications and Data** :
