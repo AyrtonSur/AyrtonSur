@@ -5,7 +5,7 @@ Hey, what's up?
 My name is Ayrton Surica, I'm currently 20 years old and am studying Computer Science at UFF.
 
 I am currently focusing on learning as much as I can and to do that I try to challenge myself in many ways (like trying to enter in Injunior, a junior enterprise).
-I have learned many differents languanges, like Python, Java, C, etc. But my main language, right now, is JavaScript.
+I have learned many differents languanges, like Python, Java, C, etc. But my main language, right now, is TypeScript.
 I work, mainly, on the backend side of projects.
 
 <div>
@@ -28,6 +28,7 @@ I work, mainly, on the backend side of projects.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
