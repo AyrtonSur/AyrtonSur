@@ -1,5 +1,3 @@
-
-
 # About Me ⊹ ˖
 Hey, what's up?
 My name is Ayrton Surica, I'm currently 20 years old and am studying Computer Science at UFF.
