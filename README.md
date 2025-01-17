@@ -3,7 +3,7 @@ Hey, what's up?
 My name is Ayrton, I'm currently 20 years old and am studying Computer Science at UFF.
 
 I am currently focusing on learning as much as I can and to do that I try to challenge myself in many ways (like trying to enter in Injunior, a junior enterprise).
-I have learned many differents languanges, like Python, Java, C, Go, etc. But my main language, right now, is TypeScript.
+I have learned many differents languanges, like Python, Java, JavaScript, C, Go, etc. But my main language, right now, is TypeScript.
 I work, mainly, on the backend side of projects.
 
 <div>
