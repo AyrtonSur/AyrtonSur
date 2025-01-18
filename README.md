@@ -7,8 +7,6 @@ I have learned many differents languanges, like Python, Java, JavaScript, C, Go,
 I work, mainly, on the backend side of projects.
 
 <div>
-
-
 [![MySite](https://img.shields.io/badge/Curriculum%20-%20hsl(0%2C%200%25%2C%2093%25)?style=flat&logo=pagekit&logoColor=black&logoSize=auto
 )](https://ayrtonsur.github.io/Curriculo/)
 </div>
