@@ -4,7 +4,7 @@ My name is Ayrton, I'm currently 20 years old and am studying Computer Science a
 
 I am currently focusing on learning as much as I can and to do that I try to challenge myself in many ways. Right now, I am working at IN Junior, a junior enterprise.
 I have learned many differents languanges, like Python, Java, JavaScript, C, Go, etc. But my main language, right now, is TypeScript.
-I work, mainly, on the backend side of projects.
+I work, mainly, on the backend side of projects, but I have the knowledge to work frontend too.
 
 <div>
   
