@@ -47,7 +47,6 @@ I work, mainly, on the backend side of projects, but I have the knowledge to wor
 [![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=monokai)](https://github.com/AyrtonSur/github-readme-activity-graph)
 
 <a href="https://github.com/AyrtonSur" title="Ayrton's profile">
-
   <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=AyrtonSur&theme=monokai&show_icons=true" />
   <br></br>
   <img height="225em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=7&theme=monokai"/>
