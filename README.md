@@ -10,6 +10,7 @@ I work, mainly, on the backend side of projects, but I have the knowledge to wor
   
 [![MySite](https://img.shields.io/badge/Curriculum%20-%20hsl(0%2C%200%25%2C%2093%25)?style=flat&logo=pagekit&logoColor=black&logoSize=auto
 )](https://ayrtonsur.github.io/Curriculo/)
+
 </div>
 
 ## My Skills
