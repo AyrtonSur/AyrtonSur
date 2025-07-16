@@ -52,6 +52,7 @@ I work, mainly, on the backend side of projects, but I have the knowledge to wor
   <br></br>
   <img height="225em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=7&theme=monokai"/>
 </a>
+
 <br></br>
 
 [![Gmail Badge](https://img.shields.io/badge/-ayrtonsurica@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayrtonsurica@gmail.com)](mailto:ayrtonsurica@gmail.com)
