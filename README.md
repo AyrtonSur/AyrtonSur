@@ -49,8 +49,10 @@ I work, mainly, on the backend side of projects, but I have the knowledge to wor
 
 **Development Tools** :
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 <br/>
 
 **What I have been up to** :
