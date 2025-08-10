@@ -1,7 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6F6F6&height=120&section=header"/>
 
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AyrtonSur&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6F6F6&size=35&center=true&vCenter=true&width=1000&lines=Ayrton+Surica;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 <br></br>
+
 
 # About Me ⊹ ˖
 Hey, what's up?
