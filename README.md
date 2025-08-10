@@ -66,7 +66,7 @@ I work, mainly, on the backend side of projects, but I have the knowledge to wor
 
 **What I have been up to** :
 
-[![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=high-contrast)](https://github.com/AyrtonSur/github-readme-activity-graph)
+[![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=high-contrast&area=true&area_color=D6D6D6)](https://github.com/AyrtonSur/github-readme-activity-graph)
 
 <a href="https://github.com/AyrtonSur" title="Ayrton's profile">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
