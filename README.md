@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6F6F6&height=120&section=header"/>
 
-<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AyrtonSur&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6F6F6&size=35&center=true&vCenter=true&width=1000&lines=Ayrton+Surica;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 <br></br>
 
@@ -67,20 +63,6 @@ I work, mainly, on the backend side of projects, but I have the knowledge to wor
 **What I have been up to** :
 
 [![AyrtonSur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyrtonSur&theme=high-contrast&area=true&area_color=D6D6D6)](https://github.com/AyrtonSur/github-readme-activity-graph)
-
-<a href="https://github.com/AyrtonSur" title="Ayrton's profile">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="left">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AyrtonSur&theme=dark&show_icons=true" />
-      </td>
-      <td align="right">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonSur&layout=compact&langs_count=7&theme=dark"/>
-      </td>
-    </tr>
-  </table>
-</a>
-<br></br>
 
 [![Gmail Badge](https://img.shields.io/badge/-ayrtonsurica@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayrtonsurica@gmail.com)](mailto:ayrtonsurica@gmail.com)
 [![X](https://img.shields.io/badge/@AyrtonSurica-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/AyrtonSurica)
