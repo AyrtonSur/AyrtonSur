@@ -6,7 +6,7 @@
 
 # About Me ⊹ ˖
 Hey, what's up?
-My name is Ayrton, I'm currently 20 years old and am studying Computer Science at UFF.
+My name is Ayrton, I'm currently 21 years old and am studying Computer Science at UFF.
 
 I am currently focusing on learning as much as I can and to do that I try to challenge myself in many ways. Right now, I am working at IN Junior, a junior enterprise.
 I have learned many differents languanges, like Python, Java, JavaScript, C, Go, etc. But my main language, right now, is TypeScript.
